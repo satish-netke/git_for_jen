@@ -1,0 +1,1 @@
+ key is data and value is list; in the value its sub dictionary key-value pairs 
